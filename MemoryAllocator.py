@@ -285,7 +285,7 @@ class SecondWindow(QDialog) :
 
         self.setLayout(vbox)
 
-
+# comment maloosh lazma
 
 # running the program
 App = QApplication(sys.argv)
